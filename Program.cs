@@ -19,7 +19,7 @@ namespace CowsAndBulls
             {
                 Random rnd = new Random();
                 int Int11 = rnd.Next(1, 10);
-                int Int22 = rnd.Next(0, 10);
+                int Int22 = rnd.Next(0, 10); 
                 int Int33 = rnd.Next(0, 10);
                 int Int44 = rnd.Next(0, 10);
             }
